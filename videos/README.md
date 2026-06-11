@@ -9,3 +9,4 @@
 - 5 - 🎬 [Sekiro：-Shadows-Die-Twice-Walkthrough-Part-5：-Gyoubu-Oniwa](https://github.com/Hes00mGitty/Ourtoob/tree/main/videos/Sekiro%EF%BC%9A-Shadows-Die-Twice-Walkthrough-Part-5%EF%BC%9A-Gyoubu-Oniwa)
 - 6 - 🎬 [Sekiro：-Shadows-Die-Twice-Walkthrough-Part-6：-Ashina-Castle](https://github.com/Hes00mGitty/Ourtoob/tree/main/videos/Sekiro%EF%BC%9A-Shadows-Die-Twice-Walkthrough-Part-6%EF%BC%9A-Ashina-Castle)
 - 7 - 🎬 [Sekiro：-Shadows-Die-Twice-Walkthrough-Part-7：-Old-Grave](https://github.com/Hes00mGitty/Ourtoob/tree/main/videos/Sekiro%EF%BC%9A-Shadows-Die-Twice-Walkthrough-Part-7%EF%BC%9A-Old-Grave)
+- 8 - 🎬 [Sekiro：-Shadows-Die-Twice-Walkthrough-Part-8：-Lady-Butterfly](https://github.com/Hes00mGitty/Ourtoob/tree/main/videos/Sekiro%EF%BC%9A-Shadows-Die-Twice-Walkthrough-Part-8%EF%BC%9A-Lady-Butterfly)
